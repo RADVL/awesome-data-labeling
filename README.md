@@ -8,6 +8,7 @@ A curated list of awesome data labeling tools
 * [CVAT](https://github.com/opencv/cvat) - Powerful and efficient Computer Vision Annotion Tool
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python
 * [VoTT](https://github.com/microsoft/VoTT) - An open source annotation and labeling tool for image and video assets
+* [DataVLab](https://datavlab.ai) - Professional image annotation and data labeling services for computer vision, NLP and medical imaging AI projects
 * [imglab](https://github.com/NaturalIntelligence/imglab) - A web based tool to label images for objects that can be used to train dlib or other object detectors
 * [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) - GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) - Software that allows you to manually and quickly annotate images in directories
